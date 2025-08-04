@@ -19,19 +19,12 @@ Data Analysis, Data Visualization, Image Processing, Computer Vision, Natural La
 <br/>
 
 ### ***🧑‍💻 Programming Language***
-<img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img width="35px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <br/>
 
 
 ### ***🛠 Platforms***
-<img src="https://img.shields.io/badge/-GIT-666666?style=flat&logo=git">
-<img src="https://img.shields.io/badge/-GITHUB-%23323330.svg?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/-GITLAB-333333?style=lat&logo=gitlab">
-<img src="https://img.shields.io/badge/-docker?style=plastic&logo=docker&logoColor=blue&logoSize=auto&label=Docker&labelColor=gray&color=gray">
-<img src="https://img.shields.io/badge/-anaconda?style=plastic&logo=anaconda&logoColor=green&logoSize=auto&label=Anaconda&labelColor=gray&color=gray">
-<img src="https://img.shields.io/badge/-databrick?style=plastic&logo=databricks&logoColor=red&logoSize=auto&label=Databricks&labelColor=gray&color=gray">
-<img src="https://img.shields.io/badge/-sklearn?style=plastic&logo=scikitlearn&logoSize=auto&label=Scikitlearn&labelColor=gray&color=gray">
+<img src="https://img.shields.io/badge/-GIT-666666?style=flat&logo=git"> <img src="https://img.shields.io/badge/-GITHUB-%23323330.svg?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-GITLAB-333333?style=lat&logo=gitlab"> <img src="https://img.shields.io/badge/-docker?style=plastic&logo=docker&logoColor=blue&logoSize=auto&label=Docker&labelColor=gray&color=gray"> <img src="https://img.shields.io/badge/-anaconda?style=plastic&logo=anaconda&logoColor=green&logoSize=auto&label=Anaconda&labelColor=gray&color=gray"> <img src="https://img.shields.io/badge/-databrick?style=plastic&logo=databricks&logoColor=red&logoSize=auto&label=Databricks&labelColor=gray&color=gray"> <img src="https://img.shields.io/badge/-sklearn?style=plastic&logo=scikitlearn&logoSize=auto&label=Scikitlearn&labelColor=gray&color=gray">
 <br/>
 
 ### ***🪟 Frameworks***
