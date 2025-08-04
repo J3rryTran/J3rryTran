@@ -28,59 +28,59 @@ Data Analysis, Data Visualization, Image Processing, Computer Vision, Natural La
 <br/>
 
 ### ***🪟 Frameworks***
-<span style="display: inline-flex; align-items: center; background-color: #4e4c4cff; color: white; padding: 4px 6px; border-radius: 5px; font-family: sans-serif; font-size: 12px;">
+<span style="display: inline-flex; align-items: center; background: linear-gradient(to bottom, #6c6c6c, #4e4c4c); color: white; padding: 4px 8px; border-radius: 4px; font-family: 'Segoe UI', sans-serif; font-size: 12px; border: 1px solid #3a3a3a; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);">
     <img src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch" width="20" height="20" style="margin-right: 6px;">
     Pytorch
 </span>
-<span style="display: inline-flex; align-items: center; background-color: #4e4c4cff; color: white; padding: 4px 6px; border-radius: 5px; font-family: sans-serif; font-size: 12px;">
+<span style="display: inline-flex; align-items: center; background: linear-gradient(to bottom, #6c6c6c, #4e4c4c); color: white; padding: 4px 8px; border-radius: 4px; font-family: 'Segoe UI', sans-serif; font-size: 12px; border: 1px solid #3a3a3a; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hugging-expression-emoji-shared-on-instant-messenger-smiley-color-tal-revivo.png" alt="huggingface" width="20" height="20" style="margin-right: 6px;">
     Hugging Face
 </span>
-<span style="display: inline-flex; align-items: center; background-color: #4e4c4cff; color: white; padding: 4px 6px; border-radius: 5px; font-family: sans-serif; font-size: 12px;">
+<span style="display: inline-flex; align-items: center; background: linear-gradient(to bottom, #6c6c6c, #4e4c4c); color: white; padding: 4px 8px; border-radius: 4px; font-family: 'Segoe UI', sans-serif; font-size: 12px; border: 1px solid #3a3a3a; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);">
     <img src="./icon/nltk.png" alt="NLTK" width="20" height="20" style="margin-right: 6px;">
     Natural Language Toolkit
 </span>
-<span style="display: inline-flex; align-items: center; background-color: #4e4c4cff; color: white; padding: 4px 6px; border-radius: 5px; font-family: sans-serif; font-size: 12px;">
+<span style="display: inline-flex; align-items: center; background: linear-gradient(to bottom, #6c6c6c, #4e4c4c); color: white; padding: 4px 8px; border-radius: 4px; font-family: 'Segoe UI', sans-serif; font-size: 12px; border: 1px solid #3a3a3a; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);">
     <img src="./icon/opencv.png" alt="opencv" width="20" height="20" style="margin-right: 6px;">
     OpenCV
 </span>
-<span style="display: inline-flex; align-items: center; background-color: #4e4c4cff; color: white; padding: 4px 6px; border-radius: 5px; font-family: sans-serif; font-size: 12px;">
+<span style="display: inline-flex; align-items: center; background: linear-gradient(to bottom, #6c6c6c, #4e4c4c); color: white; padding: 4px 8px; border-radius: 4px; font-family: 'Segoe UI', sans-serif; font-size: 12px; border: 1px solid #3a3a3a; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);">
     <img src="./icon/Ultralytics_Logomark_Original_Crop.png" alt="Ultralytics" width="20" height="20" style="margin-right: 6px;">
     Ultralytics
 </span>
-<span style="display: inline-flex; align-items: center; background-color: #4e4c4cff; color: white; padding: 4px 6px; border-radius: 5px; font-family: sans-serif; font-size: 12px;">
+<span style="display: inline-flex; align-items: center; background: linear-gradient(to bottom, #6c6c6c, #4e4c4c); color: white; padding: 4px 8px; border-radius: 4px; font-family: 'Segoe UI', sans-serif; font-size: 12px; border: 1px solid #3a3a3a; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);">
     <img src="https://img.icons8.com/color/48/numpy.png" alt="numpy" width="20" height="20" style="margin-right: 6px;">
     Numpy
 </span>
-<span style="display: inline-flex; align-items: center; background-color: #4e4c4cff; color: white; padding: 4px 6px; border-radius: 5px; font-family: sans-serif; font-size: 12px;">
+<span style="display: inline-flex; align-items: center; background: linear-gradient(to bottom, #6c6c6c, #4e4c4c); color: white; padding: 4px 8px; border-radius: 4px; font-family: 'Segoe UI', sans-serif; font-size: 12px; border: 1px solid #3a3a3a; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);">
     <img src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib" width="20" height="20" style="margin-right: 6px;">
     Matplotlib
 </span>
-<span style="display: inline-flex; align-items: center; background-color: #4e4c4cff; color: white; padding: 4px 6px; border-radius: 5px; font-family: sans-serif; font-size: 12px;">
+<span style="display: inline-flex; align-items: center; background: linear-gradient(to bottom, #6c6c6c, #4e4c4c); color: white; padding: 4px 8px; border-radius: 4px; font-family: 'Segoe UI', sans-serif; font-size: 12px; border: 1px solid #3a3a3a; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);">
     <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="20" height="20" style="margin-right: 6px;">
     Pandas
 </span>
-<span style="display: inline-flex; align-items: center; background-color: #4e4c4cff; color: white; padding: 4px 6px; border-radius: 5px; font-family: sans-serif; font-size: 12px;">
+<span style="display: inline-flex; align-items: center; background: linear-gradient(to bottom, #6c6c6c, #4e4c4c); color: white; padding: 4px 8px; border-radius: 4px; font-family: 'Segoe UI', sans-serif; font-size: 12px; border: 1px solid #3a3a3a; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);">
     <img src="./icon/Pcl_(PointClouds_library).png" alt="Point Cloud" width="20" height="20" style="margin-right: 6px;">
     Point Cloud
 </span>
-<span style="display: inline-flex; align-items: center; background-color: #4e4c4cff; color: white; padding: 4px 6px; border-radius: 5px; font-family: sans-serif; font-size: 12px;">
+<span style="display: inline-flex; align-items: center; background: linear-gradient(to bottom, #6c6c6c, #4e4c4c); color: white; padding: 4px 8px; border-radius: 4px; font-family: 'Segoe UI', sans-serif; font-size: 12px; border: 1px solid #3a3a3a; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);">
     <img src="https://img.icons8.com/color/48/spring-logo.png" alt="SpringBoot" width="20" height="20" style="margin-right: 6px;">
     Spring Boot
 </span>
-<span style="display: inline-flex; align-items: center; background-color: #4e4c4cff; color: white; padding: 4px 6px; border-radius: 5px; font-family: sans-serif; font-size: 12px;">
+<span style="display: inline-flex; align-items: center; background: linear-gradient(to bottom, #6c6c6c, #4e4c4c); color: white; padding: 4px 8px; border-radius: 4px; font-family: 'Segoe UI', sans-serif; font-size: 12px; border: 1px solid #3a3a3a; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);">
     <img src="./icon/SQLite370.svg" alt="sqlite" width="20" height="20" style="margin-right: 6px;">
     SQLite
 </span>
-<span style="display: inline-flex; align-items: center; background-color: #4e4c4cff; color: white; padding: 4px 6px; border-radius: 5px; font-family: sans-serif; font-size: 12px;">
+<span style="display: inline-flex; align-items: center; background: linear-gradient(to bottom, #6c6c6c, #4e4c4c); color: white; padding: 4px 8px; border-radius: 4px; font-family: 'Segoe UI', sans-serif; font-size: 12px; border: 1px solid #3a3a3a; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);">
     <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql" width="20" height="20" style="margin-right: 6px;">
     MySQL
 </span>
-<span style="display: inline-flex; align-items: center; background-color: #4e4c4cff; color: white; padding: 4px 6px; border-radius: 5px; font-family: sans-serif; font-size: 12px;">
+<span style="display: inline-flex; align-items: center; background: linear-gradient(to bottom, #6c6c6c, #4e4c4c); color: white; padding: 4px 8px; border-radius: 4px; font-family: 'Segoe UI', sans-serif; font-size: 12px; border: 1px solid #3a3a3a; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);">
     <img src="https://img.icons8.com/color/48/postgreesql.png" alt="postgresql" width="20" height="20" style="margin-right: 6px;">
     PostgreSQL
 </span>
-<span style="display: inline-flex; align-items: center; background-color: #4e4c4cff; color: white; padding: 4px 6px; border-radius: 5px; font-family: sans-serif; font-size: 12px;">
+<span style="display: inline-flex; align-items: center; background: linear-gradient(to bottom, #6c6c6c, #4e4c4c); color: white; padding: 4px 8px; border-radius: 4px; font-family: 'Segoe UI', sans-serif; font-size: 12px; border: 1px solid #3a3a3a; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2);">
     <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle" width="20" height="20" style="margin-right: 6px;">
     OracleDB
 </span>
