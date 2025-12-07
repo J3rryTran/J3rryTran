@@ -7,7 +7,7 @@
 ### ***About Me***
 My orientation is following the direction of application engineering with topic: Deep Learning for Computer Vision, Prompt Engineer, Data Analysis, and Data Engineer.
 <br/> 
-Here is my [Portfolio](https://j3rrytran.github.io/myporfolio/), you can download my resume in my portfolio.
+Here is my [Portfolio](https://j3rrytran.github.io/J3rryTran-Porfolio/), you can download my resume in my portfolio.
 
 <br/>
 
